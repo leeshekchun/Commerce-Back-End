@@ -5,7 +5,7 @@
 This application provides a back-end for e-commerce companies to management their databases. The application uses Express.js API to use Sequelize to interact with MySQL database.
 
 A link to walk-through videos that demonstrate application's functionalities:
-https://drive.google.com/drive/folders/1cdhRFw1aEGEQ5WFPd-tndBuVUTozowh7?usp=sharing
+https://drive.google.com/drive/folders/168e08w0vA2VU7YwSxEVnQ8RPdedBksBg?usp=sharing
 
 
 ## Usage
